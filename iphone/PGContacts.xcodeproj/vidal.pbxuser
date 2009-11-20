@@ -1,0 +1,235 @@
+// !$*UTF8*$!
+{
+	1B1B4FBD0F94571B00ECD4E6 /* PhoneGapCommand.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {684, 735}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{645, 339}";
+		};
+	};
+	1BB1F7D10F9E1BE2002A28DA /* Settings.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{52, 0}, {1052, 852}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* PGContacts */ = {
+		activeExec = 0;
+		executables = (
+			A82658F910B08162008C4429 /* PGContacts */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A82658F910B08162008C4429 /* PGContacts */;
+		activeSDKPreference = iphoneos3.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PGContacts */;
+		codeSenseManager = A826594410B0816F008C4429 /* Code sense */;
+		executables = (
+			A82658F910B08162008C4429 /* PGContacts */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					334,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 280391593;
+			PBXWorkspaceStateSaveDate = 280391593;
+		};
+		perUserProjectItems = {
+			A826597110B0C02F008C4429 = A826597110B0C02F008C4429 /* PlistBookmark */;
+			A826597210B0C02F008C4429 = A826597210B0C02F008C4429 /* PBXBookmark */;
+			A8265A0310B10F90008C4429 = A8265A0310B10F90008C4429 /* PBXTextBookmark */;
+			A8265A0410B10F90008C4429 = A8265A0410B10F90008C4429 /* PBXTextBookmark */;
+			A8265A0510B10F90008C4429 = A8265A0510B10F90008C4429 /* PBXTextBookmark */;
+			A8265A0710B10F90008C4429 = A8265A0710B10F90008C4429 /* PBXTextBookmark */;
+			A87D208610B280610012FEBD = A87D208610B280610012FEBD /* PBXTextBookmark */;
+		};
+		sourceControlManager = A826594310B0816F008C4429 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	301469B81034A0EB008103DA /* InvokedUrlCommand.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 1365}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1871, 1213}";
+		};
+	};
+	47DC7FB20EFADF9E00D0B526 /* PhoneGap.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{52, 0}, {1052, 852}}";
+		};
+	};
+	47FAB6A80EF751E2005F55AB /* PhoneGapViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {901, 945}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1431, 466}";
+		};
+	};
+	47FAB72C0EF7A6C6005F55AB /* Contacts.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1530, 1365}}";
+			sepNavSelRange = "{1184, 15}";
+			sepNavVisRange = "{0, 1716}";
+		};
+	};
+	47FAB72D0EF7A6C6005F55AB /* Contacts.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1530, 5805}}";
+			sepNavSelRange = "{3682, 85}";
+			sepNavVisRange = "{3681, 1997}";
+		};
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{52, 0}, {1052, 852}}";
+		};
+	};
+	A82658F910B08162008C4429 /* PGContacts */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PGContacts;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A826594310B0816F008C4429 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A826594410B0816F008C4429 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A826597110B0C02F008C4429 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 1BB1F7D10F9E1BE2002A28DA /* Settings.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/vidal/code/phonegap_apps/pg_contacts/iphone/Settings.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	A826597210B0C02F008C4429 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = A826597310B0C02F008C4429 /* icon.png */;
+	};
+	A826597310B0C02F008C4429 /* icon.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = icon.png;
+		path = /Users/vidal/code/phonegap_apps/pg_contacts/iphone/www/icon.png;
+		sourceTree = "<absolute>";
+	};
+	A826597710B0C02F008C4429 /* index.html */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.html;
+		name = index.html;
+		path = /Users/vidal/code/phonegap_apps/pg_contacts/iphone/www/index.html;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1530, 1575}}";
+			sepNavSelRange = "{3290, 0}";
+			sepNavVisRange = "{0, 1956}";
+		};
+	};
+	A8265A0310B10F90008C4429 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A826597710B0C02F008C4429 /* index.html */;
+		name = "index.html: 115";
+		rLen = 0;
+		rLoc = 3270;
+		rType = 0;
+		vrLen = 886;
+		vrLoc = 2770;
+	};
+	A8265A0410B10F90008C4429 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 47FAB6A80EF751E2005F55AB /* PhoneGapViewController.m */;
+		name = "PhoneGapViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 466;
+		vrLoc = 1431;
+	};
+	A8265A0510B10F90008C4429 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1B1B4FBD0F94571B00ECD4E6 /* PhoneGapCommand.m */;
+		name = "PhoneGapCommand.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 645;
+	};
+	A8265A0710B10F90008C4429 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 301469B81034A0EB008103DA /* InvokedUrlCommand.m */;
+		name = "InvokedUrlCommand.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 375;
+		vrLoc = 2709;
+	};
+	A87D208610B280610012FEBD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 301469B81034A0EB008103DA /* InvokedUrlCommand.m */;
+		name = "InvokedUrlCommand.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 377;
+		vrLoc = 2707;
+	};
+}
